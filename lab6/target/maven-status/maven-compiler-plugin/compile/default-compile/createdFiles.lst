@@ -1,0 +1,17 @@
+com\lab6\test\UserTest.class
+com\lab6\web\SearchByKeywordServlet.class
+com\lab6\web\SearchByUserServlet.class
+com\lab6\web\FavoriteStatusServlet.class
+com\lab6\web\VideoServlet.class
+com\lab6\web\Random10Servlet.class
+com\lab6\dao\FavoriteManager.class
+com\lab6\dao\UserManager.class
+com\lab6\web\SearchUsersByVideoServlet.class
+com\lab6\App.class
+com\lab6\entity\Favorite.class
+com\lab6\web\ReportServlet.class
+com\lab6\dto\Report.class
+com\lab6\web\ReportByYearServlet.class
+com\lab6\web\UserServlet.class
+com\lab6\entity\Video.class
+com\lab6\entity\User.class
