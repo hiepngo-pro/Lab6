@@ -31,7 +31,7 @@ public class UserTest {
         User existing = manager.findById("U01");
         if (existing != null) {
             existing.setFullname("Nguyễn Văn A (Đã sửa)");
-            existing.setEmail("invalid-email"); // email sai -> sẽ bị lỗi
+            existing.setEmail("invalid-email");
             try {
                 manager.update(existing);
             } catch (Exception e) {
